@@ -39,6 +39,10 @@ console.log(Object.keys(car));
 console.log(car.color);
 
 
+
+
+
+
 // !so i'll not let it delete any more...
 // before
 Object.seal(car);
